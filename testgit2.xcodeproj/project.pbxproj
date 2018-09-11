@@ -15,6 +15,7 @@
 		E9A5728121474700009534A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9A5727F21474700009534A5 /* LaunchScreen.storyboard */; };
 		E9A5728C21474700009534A5 /* testgit2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9A5728B21474700009534A5 /* testgit2Tests.swift */; };
 		E9A5729721474700009534A5 /* testgit2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9A5729621474700009534A5 /* testgit2UITests.swift */; };
+		E9A572A521474718009534A5 /* testcom.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9A572A421474718009534A5 /* testcom.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E9A5729221474700009534A5 /* testgit2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testgit2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9A5729621474700009534A5 /* testgit2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testgit2UITests.swift; sourceTree = "<group>"; };
 		E9A5729821474700009534A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9A572A421474718009534A5 /* testcom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testcom.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		E9A57267214746FF009534A5 = {
 			isa = PBXGroup;
 			children = (
+				E9A572A421474718009534A5 /* testcom.swift */,
 				E9A57272214746FF009534A5 /* testgit2 */,
 				E9A5728A21474700009534A5 /* testgit2Tests */,
 				E9A5729521474700009534A5 /* testgit2UITests */,
@@ -262,6 +265,7 @@
 				E9A5727C214746FF009534A5 /* testgit2.xcdatamodeld in Sources */,
 				E9A57276214746FF009534A5 /* ViewController.swift in Sources */,
 				E9A57274214746FF009534A5 /* AppDelegate.swift in Sources */,
+				E9A572A521474718009534A5 /* testcom.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
